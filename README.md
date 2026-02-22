@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A6C,100:00D4FF&height=200&section=header&text=Connacri&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Mobile%20%26%20Desktop%20Architect&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Flutter+%7C+Android+%26+Windows+Desktop;Firebase+%7C+Supabase+%7C+ObjectBox;Provider+%7C+Material+3+%7C+Clean+Architecture;20+projets+Flutter+%F0%9F%9A%80+depuis+Oran%2C+Alg%C3%A9rie)](https://git.io/typing-svg)
 
 <br/>
@@ -104,9 +102,9 @@ class Connacri extends FlutterEngineer {
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
 | ✈️ **[siyaha](https://github.com/Connacri/siyaha)** | Tourisme et découverte de destinations | Flutter · Firebase | 🚧 En dev |
-| 🇦🇪 **[dubai](https://github.com/Connacri/dubai)** | Guide et services pour la ville de Dubaï | Flutter · Firebase | 🔨 Production |
-| 🇹🇷 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte en Turquie | Flutter · Supabase | 🔨 Production |
-| 🇹🇷 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
+| 🇦🇪 **[dubai](https://github.com/Connacri/dubai)** | App De Gestion de stock de Dubaï | Flutter · Firebase | 🔨 Production |
+| 🇩🇿 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte en Algérie | Flutter · Supabase | 🔨 Production |
+| 🇩🇿 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
 | 🏛️ **[wahrane](https://github.com/Connacri/wahrane)** | Wahran – patrimoine, culture et identité oranaise | Flutter · Firebase | 🔨 Production |
 
 ### 🧪 R&D & Divers
