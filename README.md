@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A3A6C,100:00D4FF&height=200&section=header&text=Connacri&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Mobile%20%26%20Desktop%20Architect&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Flutter+%7C+Android+%26+Windows+Desktop;Firebase+%7C+Supabase+%7C+ObjectBox;Provider+%7C+Material+3+%7C+Clean+Architecture;Building+real+apps+%F0%9F%9A%80+from+Oran%2C+Algeria)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Flutter+%7C+Android+%26+Windows+Desktop;Firebase+%7C+Supabase+%7C+ObjectBox;Provider+%7C+Material+3+%7C+Clean+Architecture;20+projets+Flutter+%F0%9F%9A%80+depuis+Oran%2C+Alg%C3%A9rie)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
 [![Play Store](https://img.shields.io/badge/Play_Store-Oran_App-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oran.dz)
 [![Twitter](https://img.shields.io/badge/Twitter-@forslog-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/forslog)
 [![Facebook](https://img.shields.io/badge/Facebook-Oran.app-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/Oran.application/)
@@ -33,6 +30,8 @@ class Connacri extends FlutterEngineer {
     "ObjectBox · SQLite · Supabase · Firebase Firestore",
     "Material Design 3 · Adaptive UI",
   ];
+
+  final int totalProjects = 20;
 
   @override
   String toString() => "Building production-grade cross-platform apps 🚀";
@@ -65,22 +64,59 @@ class Connacri extends FlutterEngineer {
 ### 🛠️ DevOps & Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
 
 </div>
 
 ---
 
-## 📦 Projets Phares
+## 📦 Tous mes Projets (20)
 
 <div align="center">
 
+### 🌟 Applications Phares
+
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
-| 🏙️ **[Oran App](https://play.google.com/store/apps/details?id=com.oran.dz)** | Application officielle de la ville d'Oran – services locaux, actualités, annuaires | Flutter · Firebase · Android | ✅ Live sur Play Store |
-| 💘 **[Profilum](https://github.com/Connacri/profilum)** | Dating app cross-platform avec matching intelligent | Flutter · Supabase · Provider | 🚧 En développement |
-| 🛒 **[POS](https://github.com/Connacri/pos)** | Point de vente complet : caisse, stock, rapports, multi-utilisateurs | Flutter · ObjectBox · Windows | 🔨 Production |
+| 🏙️ **[oran](https://github.com/Connacri/oran)** | Application officielle de la ville d'Oran – services, actualités, annuaires | Flutter · Firebase | ✅ Play Store |
+| 🛒 **[pos](https://github.com/Connacri/pos)** | Point de vente – caisse, stock, rapports, multi-utilisateurs | Flutter · ObjectBox · Windows | 🔨 Production |
+| 💘 **[profilum](https://github.com/Connacri/profilum)** | Dating app cross-platform avec matching intelligent | Flutter · Supabase · Provider | 🚧 En dev |
+| 👤 **[profilias](https://github.com/Connacri/profilias)** | Gestion de profils et identités utilisateurs | Flutter · Firebase | 🔨 Production |
+
+### 🏥 Santé & Services
+
+| Projet | Description | Tech | Statut |
+|--------|-------------|------|--------|
+| 🏥 **[myhospital-setup](https://github.com/Connacri/myhospital-setup)** | Gestion hospitalière – patients, rendez-vous, dossiers | Flutter · SQLite | 🔨 Production |
+| ✅ **[check31](https://github.com/Connacri/check31)** | Application de checklist et vérification | Flutter · ObjectBox | 🔨 Production |
+| 🔒 **[Check-it-privacy](https://github.com/Connacri/Check-it-privacy)** | Vérification et conformité de confidentialité | Flutter | ✅ Terminé |
+
+### 🛍️ Commerce & Business
+
+| Projet | Description | Tech | Statut |
+|--------|-------------|------|--------|
+| 🛍️ **[ecom](https://github.com/Connacri/ecom)** | E-commerce – catalogue, panier, commandes | Flutter · Firebase | 🚧 En dev |
+| 📊 **[version1k](https://github.com/Connacri/version1k)** | Gestion de versions et mises à jour applicatives | Flutter | 🔨 Production |
+| 🔄 **[V9.27-50_Update](https://github.com/Connacri/V9.27-50_Update)** | Module de migration et mise à jour de données | Flutter · SQLite | ✅ Terminé |
+
+### ✈️ Voyage & Tourisme
+
+| Projet | Description | Tech | Statut |
+|--------|-------------|------|--------|
+| ✈️ **[siyaha](https://github.com/Connacri/siyaha)** | Tourisme et découverte de destinations | Flutter · Firebase | 🚧 En dev |
+| 🇦🇪 **[dubai](https://github.com/Connacri/dubai)** | Guide et services pour la ville de Dubaï | Flutter · Firebase | 🔨 Production |
+| 🇹🇷 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte en Turquie | Flutter · Supabase | 🔨 Production |
+| 🇹🇷 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
+| 🏛️ **[wahrane](https://github.com/Connacri/wahrane)** | Wahran – patrimoine, culture et identité oranaise | Flutter · Firebase | 🔨 Production |
+
+### 🧪 R&D & Divers
+
+| Projet | Description | Tech | Statut |
+|--------|-------------|------|--------|
+| 👤 **[indra](https://github.com/Connacri/indra)** | Application de gestion personnalisée | Flutter · ObjectBox | 🔨 Production |
+| 🎮 **[gg](https://github.com/Connacri/gg)** | Expérimentation et prototypage Flutter | Flutter | 🧪 R&D |
+| 👤 **[ramzy](https://github.com/Connacri/ramzy)** | Application client sur mesure | Flutter · Firebase | 🔨 Production |
+| 📜 **[privacy.policy](https://github.com/Connacri/privacy.policy)** | Pages de politique de confidentialité | Flutter Web | ✅ Terminé |
 
 </div>
 
@@ -118,7 +154,7 @@ class Connacri extends FlutterEngineer {
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Connacri&bg_color=0D1117&color=00D4FF&line=1A3A6C&point=00D4FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Connacri&bg_color=0D1117&color=00D4FF&line=1A3A6C&point=00D4FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -147,7 +183,7 @@ class Connacri extends FlutterEngineer {
 </a>
 
 > Application mobile officielle dédiée à la ville d'Oran — services, actualités, annuaires, et plus encore.  
-> Développée avec Flutter · Firebase Firestore · Android
+> Développée avec **Flutter · Firebase Firestore · Android**
 
 </div>
 
@@ -165,10 +201,9 @@ class Connacri extends FlutterEngineer {
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0D1117&height=100&section=footer" width="100%"/>
 
-**Connacri** · Oran, Algeria 🇩🇿 · Flutter Engineer @ Forslog
+**Connacri** · Oran, Algeria 🇩🇿 · Flutter Engineer @ Forslog · **20 projets Flutter**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Connacri&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/Connacri)
 
