@@ -105,8 +105,8 @@ class Connacri extends FlutterEngineer {
 |--------|-------------|------|--------|
 | ✈️ **[siyaha](https://github.com/Connacri/siyaha)** | Tourisme et découverte de destinations | Flutter · Firebase | 🚧 En dev |
 | 🇦🇪 **[dubai](https://github.com/Connacri/dubai)** | Guide et services pour la ville de Dubaï | Flutter · Firebase | 🔨 Production |
-| 🇹🇷 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte en Turquie | Flutter · Supabase | 🔨 Production |
-| 🇹🇷 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
+| 🇩🇿 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte à Oran | Flutter · Supabase | 🔨 Production |
+| 🇩🇿 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
 | 🏛️ **[wahrane](https://github.com/Connacri/wahrane)** | Wahran – patrimoine, culture et identité oranaise | Flutter · Firebase | 🔨 Production |
 
 ### 🧪 R&D & Divers
