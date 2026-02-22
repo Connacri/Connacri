@@ -105,8 +105,8 @@ class Connacri extends FlutterEngineer {
 |--------|-------------|------|--------|
 | ✈️ **[siyaha](https://github.com/Connacri/siyaha)** | Tourisme et découverte de destinations | Flutter · Firebase | 🚧 En dev |
 | 🇦🇪 **[dubai](https://github.com/Connacri/dubai)** | Guide et services pour la ville de Dubaï | Flutter · Firebase | 🔨 Production |
-| 🇩🇿 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte à Oran | Flutter · Supabase | 🔨 Production |
-| 🇩🇿 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
+| 🇹🇷 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte en Turquie | Flutter · Supabase | 🔨 Production |
+| 🇹🇷 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
 | 🏛️ **[wahrane](https://github.com/Connacri/wahrane)** | Wahran – patrimoine, culture et identité oranaise | Flutter · Firebase | 🔨 Production |
 
 ### 🧪 R&D & Divers
@@ -140,11 +140,20 @@ class Connacri extends FlutterEngineer {
 
 ---
 
-## 🏆 Trophées
+## 🏆 Trophées GitHub
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Connacri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 
+  ✅ Corrections appliquées selon la doc officielle ryo-ma/github-profile-trophy :
+  - column=4  → adapté mobile (défaut 6 = trop large)
+  - rank=-?,B,C → masque les trophées UNKNOWN (?), B et C (trop bas)
+  - no-bg=true → fond transparent pour s'adapter au thème GitHub
+  - no-frame=true → supprime les cadres pour un look plus propre
+  - margin-w=10 & margin-h=10 → espacement entre trophées
+  - theme=tokyonight → cohérent avec le reste du README
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Connacri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=-?,C,B)](https://github.com/Connacri)
 
 </div>
 
