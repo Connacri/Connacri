@@ -86,14 +86,6 @@ class Connacri extends FlutterEngineer {
 |--------|-------------|------|--------|
 | ✅ **[check31](https://github.com/Connacri/check31)** | Application de checklist et vérification | Flutter · ObjectBox | 🔨 Production |
 
-### 🛍️ Commerce & Business
-
-| Projet | Description | Tech | Statut |
-|--------|-------------|------|--------|
-| 🛍️ **[ecom](https://github.com/Connacri/ecom)** | E-commerce – catalogue, panier, commandes | Flutter · Firebase | 🚧 En dev |
-| 📊 **[version1k](https://github.com/Connacri/version1k)** | Gestion de versions et mises à jour applicatives | Flutter | 🔨 Production |
-| 🔄 **[V9.27-50_Update](https://github.com/Connacri/V9.27-50_Update)** | Module de migration et mise à jour de données | Flutter · SQLite | ✅ Terminé |
-
 ### ✈️ Voyage & Tourisme
 
 | Projet | Description | Tech | Statut |
