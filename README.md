@@ -84,9 +84,7 @@ class Connacri extends FlutterEngineer {
 
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
-| 🏥 **[myhospital-setup](https://github.com/Connacri/myhospital-setup)** | Gestion hospitalière – patients, rendez-vous, dossiers | Flutter · SQLite | 🔨 Production |
 | ✅ **[check31](https://github.com/Connacri/check31)** | Application de checklist et vérification | Flutter · ObjectBox | 🔨 Production |
-| 🔒 **[Check-it-privacy](https://github.com/Connacri/Check-it-privacy)** | Vérification et conformité de confidentialité | Flutter | ✅ Terminé |
 
 ### 🛍️ Commerce & Business
 
