@@ -84,26 +84,23 @@ class Connacri extends FlutterEngineer {
 
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
-| ✅ **[check31](https://github.com/Connacri/check31)** | Application de checklist et vérification | Flutter · ObjectBox | 🔨 Production |
+| ✅ **[Check-it](https://github.com/Connacri/check31)** | Application de checklist et vérification | Flutter · ObjectBox | 🔨 Production |
 
 ### ✈️ Voyage & Tourisme
 
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
-| ✈️ **[siyaha](https://github.com/Connacri/siyaha)** | Tourisme et découverte de destinations | Flutter · Firebase | 🚧 En dev |
-| 🇦🇪 **[dubai](https://github.com/Connacri/dubai)** | App De Gestion de stock de Dubaï | Flutter · Firebase | 🔨 Production |
-| 🇩🇿 **[inturk](https://github.com/Connacri/inturk)** | Services et découverte en Algérie | Flutter · Supabase | 🔨 Production |
-| 🇩🇿 **[inturkNew](https://github.com/Connacri/inturkNew)** | Version nouvelle génération de InTurk | Flutter · Supabase | 🚧 En dev |
-| 🏛️ **[wahrane](https://github.com/Connacri/wahrane)** | Wahran – patrimoine, culture et identité oranaise | Flutter · Firebase | 🔨 Production |
+| 🇦🇪 **[Dubai](https://github.com/Connacri/dubai)** | App De Gestion de stock de Dubaï | Flutter · Firebase | 🔨 Production |
+| 🇩🇿 **[Inturk](https://github.com/Connacri/inturk)** | Services et découverte en Algérie | Flutter · Supabase | 🔨 Production |
 
 ### 🧪 R&D & Divers
 
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
-| 👤 **[indra](https://github.com/Connacri/indra)** | Application de gestion personnalisée | Flutter · ObjectBox | 🔨 Production |
-| 🎮 **[gg](https://github.com/Connacri/gg)** | Expérimentation et prototypage Flutter | Flutter | 🧪 R&D |
-| 👤 **[ramzy](https://github.com/Connacri/ramzy)** | Application client sur mesure | Flutter · Firebase | 🔨 Production |
-| 📜 **[privacy.policy](https://github.com/Connacri/privacy.policy)** | Pages de politique de confidentialité | Flutter Web | ✅ Terminé |
+| 👤 **[Indra](https://github.com/Connacri/indra)** | Application de gestion personnalisée | Flutter · ObjectBox | 🔨 Production |
+| 🎮 **[GG](https://github.com/Connacri/gg)** | Expérimentation et prototypage Flutter | Flutter | 🧪 R&D |
+| 👤 **[Ramzy](https://github.com/Connacri/ramzy)** | Application client sur mesure | Flutter · Firebase | 🔨 Production |
+
 
 </div>
 
@@ -140,7 +137,7 @@ class Connacri extends FlutterEngineer {
   - margin-w=10 & margin-h=10 → espacement entre trophées
   - theme=tokyonight → cohérent avec le reste du README
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Connacri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=-?,C,B)](https://github.com/Connacri)
+
 
 </div>
 
