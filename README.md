@@ -76,10 +76,10 @@ class Connacri extends FlutterEngineer {
 
 | Projet | Description | Tech | Statut |
 |--------|-------------|------|--------|
-
-|🛒 **[POS](https://github.com/Connacri/pos)** | Point de vente – caisse, stock, rapports, multi-utilisateurs | Flutter · ObjectBox · Windows | 🔨 Production |
-|💘 **[Profilum](https://github.com/Connacri/profilum)** | Dating app cross-platform avec matching intelligent | Flutter · Supabase · Provider | 🚧 En dev |
-|👤 **[Profilias](https://github.com/Connacri/profilias)** | Gestion de profils et identités utilisateurs | Flutter · Firebase | 🔨 Production |
+| 🏙️ **[oran](https://github.com/Connacri/oran)** | Application officielle de la ville d'Oran – services, actualités, annuaires | Flutter · Firebase | ✅ Play Store |
+| 🛒 **[pos](https://github.com/Connacri/pos)** | Point de vente – caisse, stock, rapports, multi-utilisateurs | Flutter · ObjectBox · Windows | 🔨 Production |
+| 💘 **[profilum](https://github.com/Connacri/profilum)** | Dating app cross-platform avec matching intelligent | Flutter · Supabase · Provider | 🚧 En dev |
+| 👤 **[profilias](https://github.com/Connacri/profilias)** | Gestion de profils et identités utilisateurs | Flutter · Firebase | 🔨 Production |
 
 ### 🏥 Santé & Services
 
