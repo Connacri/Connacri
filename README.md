@@ -1,41 +1,44 @@
 <div align="center">
 
-# Connacri
+<a href="https://github.com/Connacri">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Product+Builder;Flutter+%7C+Mobile+%7C+Desktop+%7C+Web;3D+Anatomy+%7C+AI+%7C+Healthcare+%7C+Logistics;Building+real-world+digital+products+from+Algeria+%F0%9F%87%A9%F0%9F%87%BF" alt="Animated introduction" />
+</a>
 
-### Software Developer · Product Builder · Mobile & Desktop Applications
+<br/>
 
-**Designing, building and shipping real-world digital products from Algeria 🇩🇿**
+<img src="https://komarev.com/ghpvc/?username=Connacri&style=for-the-badge&color=00D4FF" alt="Profile views"/>
+
+### Engineering products. Solving real problems. Shipping software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Connacri-181717?style=for-the-badge&logo=github)](https://github.com/Connacri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-connacri.github.io-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://connacri.github.io/)
-[![Email](https://img.shields.io/badge/Contact-connacri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connacri@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://connacri.github.io/)
+[![Repositories](https://img.shields.io/badge/Repositories-48-6E40C9?style=for-the-badge&logo=github)](https://github.com/Connacri?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 About
+## 👨‍💻 About Me
 
-I build **production-oriented applications and digital products**, with a strong focus on mobile, desktop and data-driven systems.
+I build **real-world digital products** across mobile, desktop, web, healthcare, logistics, education, civic services, commerce, media, AI and 3D.
 
-My work spans logistics, healthcare, education, civic services, commerce, media and AI — turning operational problems into usable software.
+My approach combines **product thinking + software architecture + practical delivery**.
 
-### Engineering focus
+- 📱 Cross-platform applications with **Flutter / Dart**
+- 🧠 AI and intelligent application experiments
+- 🧬 3D anatomy, ontologies and knowledge systems
+- 🚚 Logistics and operational platforms
+- 🏥 Healthcare and hospital software
+- 🏛️ Digital workflows for public/civic services
+- ⚙️ Backend, databases, APIs and local persistence
+- 🚀 Git, GitHub and CI/CD automation
+- 🎯 UX/UI focused on real user workflows
 
-- **Product engineering** — architecture, implementation, deployment and iteration
-- **Flutter / Dart** — cross-platform mobile and desktop applications
-- **Backend & data** — Firebase, Supabase, ObjectBox, SQLite and API-driven systems
-- **Architecture** — modular design, separation of concerns and maintainability
-- **3D & knowledge systems** — anatomy visualization, ontologies, semantic relationships and 3D assets
-- **AI experimentation** — local/mobile AI and intelligent application workflows
-- **DevOps** — Git, GitHub Actions, CI/CD and automated releases
-- **UX / UI** — interfaces designed around real user workflows
-
-> **Engineering mindset:** build useful products, keep the architecture understandable, automate what can be automated, and continuously improve the system.
+> **Mindset:** Understand the problem → design the system → build it → automate it → ship it → improve it.
 
 ---
 
-## 🧰 Technology
+## 🛠️ Core Stack
 
 <div align="center">
 
@@ -47,166 +50,176 @@ My work spans logistics, healthcare, education, civic services, commerce, media 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![3D](https://img.shields.io/badge/3D-GLB%20%7C%20GLTF-6E40C9?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Research%20%26%20Apps-111827?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Applications-111827?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Flagship Projects
+
+### 🧬 Anatomy & 3D
 
 | Project | Description |
 |---|---|
-| **[AnatomyZ](https://github.com/Connacri/AnatomyZ)** | 3D anatomy platform exploring anatomical ontologies, knowledge graphs and verified mappings to GLB/GLTF structures. |
-| **[Human-Atlas](https://github.com/Connacri/Human-Atlas)** | Human anatomy atlas focused on structured anatomical knowledge and interactive visualization. |
-| **[Anatria-3D](https://github.com/Connacri/Anatria-3D)** | 3D anatomy application and interactive anatomical-model research. |
-| **[CargoLink](https://github.com/Connacri/CargoLink)** | Logistics platform connecting shipping offices, customers and micro-importers with tracking and digital transaction workflows. |
-| **[CCTV-Autorisation](https://github.com/Connacri/CCTV-Autorisation)** | Digital workflow for preparing surveillance-camera authorization requests and exporting forms as PDF. |
-| **[News](https://github.com/Connacri/News)** | Modern news/media platform with web and mobile components. |
-| **[Hospital-Inventory](https://github.com/Connacri/Hospital-Inventory)** | Hospital inventory and operational management application. |
-| **[pocketpal-ai](https://github.com/Connacri/pocketpal-ai)** | AI/mobile experimentation around practical intelligent application workflows. |
-| **[SmolChat-Android](https://github.com/Connacri/SmolChat-Android)** | Android chat and AI experimentation. |
-| **[pos](https://github.com/Connacri/pos)** | Point-of-sale application covering commerce, inventory and operational workflows. |
-| **[profilum](https://github.com/Connacri/profilum)** | Cross-platform social/dating and matching application experimentation. |
-| **[profilias](https://github.com/Connacri/profilias)** | User profile and identity-oriented application project. |
+| [**AnatomyZ**](https://github.com/Connacri/AnatomyZ) | Advanced 3D anatomy platform combining anatomical ontologies, knowledge graphs and verified mappings to GLB/GLTF structures. |
+| [**Human-Atlas**](https://github.com/Connacri/Human-Atlas) | Human anatomy atlas and structured anatomical visualization. |
+| [**Anatria-3D**](https://github.com/Connacri/Anatria-3D) | Interactive 3D anatomy application and visualization research. |
+| [**3d-anatomy**](https://github.com/Connacri/3d-anatomy) | Earlier 3D anatomy implementation and research project. |
+
+### 🚚 Logistics & Operations
+
+| Project | Description |
+|---|---|
+| [**CargoLink**](https://github.com/Connacri/CargoLink) | Logistics platform connecting shipping offices, customers and micro-importers with tracking and digital transaction workflows. |
+| [**TRANSPORT**](https://github.com/Connacri/TRANSPORT) | Transport-oriented application project. |
+
+### 🏥 Healthcare
+
+| Project | Description |
+|---|---|
+| [**Hospital-Inventory**](https://github.com/Connacri/Hospital-Inventory) | Hospital inventory and operational management. |
+| [**planning-hospital**](https://github.com/Connacri/planning-hospital) | Hospital planning and scheduling. |
+| [**Rheumatology**](https://github.com/Connacri/Rheumatology) | Rheumatology-oriented healthcare application. |
+| [**myhospital-setup**](https://github.com/Connacri/myhospital-setup) | MyHospital setup/deployment repository. |
+
+### 🤖 AI, Chat & Social
+
+| Project | Description |
+|---|---|
+| [**pocketpal-ai**](https://github.com/Connacri/pocketpal-ai) | AI/mobile experimentation and intelligent application workflows. |
+| [**SmolChat-Android**](https://github.com/Connacri/SmolChat-Android) | Android chat and AI experimentation. |
+| [**Chat**](https://github.com/Connacri/Chat) | Chat application/prototype. |
+| [**NouTube**](https://github.com/Connacri/NouTube) | Video/social platform experimentation. |
+| [**profilum**](https://github.com/Connacri/profilum) | Social/matching application experimentation. |
+| [**profilias**](https://github.com/Connacri/profilias) | Profile and identity-oriented application. |
+| [**Tinder-p2p-app**](https://github.com/Connacri/Tinder-p2p-app) | Peer-to-peer matching application prototype. |
+| [**LotusDate**](https://github.com/Connacri/LotusDate) | Social/date application experiment. |
+
+### 📰 Media, Civic & Public Services
+
+| Project | Description |
+|---|---|
+| [**News**](https://github.com/Connacri/News) | News/media platform with web and mobile components. |
+| [**CCTV-Autorisation**](https://github.com/Connacri/CCTV-Autorisation) | Digital workflow for surveillance-camera authorization forms and PDF export. |
+| [**rnd**](https://github.com/Connacri/rnd) | Civic/political application project. |
+| [**oran**](https://github.com/Connacri/oran) | Oran-focused application project. |
 
 ---
 
-# 📚 Complete Repository Portfolio
+# 📚 All 48 Repositories
 
-> 48 repositories are currently owned by this account. The catalogue intentionally includes active products, prototypes, research projects, legacy projects and supporting repositories.
+> Every repository currently owned by **Connacri** is listed below. The catalogue includes products, R&D, prototypes, utilities, legacy projects and supporting repositories.
 
-## 🧬 Anatomy, 3D & Healthcare
-
-- **[AnatomyZ](https://github.com/Connacri/AnatomyZ)** — 3D anatomy, anatomical knowledge graph and ontology/mapping research.
-- **[Human-Atlas](https://github.com/Connacri/Human-Atlas)** — Human anatomy atlas and structured anatomical visualization.
-- **[Anatria-3D](https://github.com/Connacri/Anatria-3D)** — 3D anatomy application and visualization research.
-- **[3d-anatomy](https://github.com/Connacri/3d-anatomy)** — 3D anatomy prototype/research project.
-- **[Hospital-Inventory](https://github.com/Connacri/Hospital-Inventory)** — Hospital inventory management.
-- **[planning-hospital](https://github.com/Connacri/planning-hospital)** — Hospital planning and scheduling.
-- **[Rheumatology](https://github.com/Connacri/Rheumatology)** — Rheumatology-oriented healthcare application.
-- **[myhospital-setup](https://github.com/Connacri/myhospital-setup)** — MyHospital setup/deployment resources.
-- **[CRECHE](https://github.com/Connacri/CRECHE)** — Childcare/creche management project.
-- **[Nursery](https://github.com/Connacri/Nursery)** — Nursery/childcare application project.
-
-## 🚚 Logistics, Transport & Travel
-
-- **[CargoLink](https://github.com/Connacri/CargoLink)** — Digital logistics platform connecting shipping offices, customers and micro-importers.
-- **[TRANSPORT](https://github.com/Connacri/TRANSPORT)** — Transport-oriented application/project.
-- **[dubai](https://github.com/Connacri/dubai)** — Dubai-focused application/project.
-- **[inturk](https://github.com/Connacri/inturk)** — Travel/service-oriented application.
-- **[inturkNew](https://github.com/Connacri/inturkNew)** — New iteration of the Inturk project.
-- **[siyaha](https://github.com/Connacri/siyaha)** — Tourism/service-oriented project.
-- **[wahrane](https://github.com/Connacri/wahrane)** — Oran/Wahran-oriented application.
-
-## 🏪 Business & Productivity
-
-- **[pos](https://github.com/Connacri/pos)** — Point-of-sale and commerce management.
-- **[Pos_module](https://github.com/Connacri/Pos_module)** — POS-related module/prototype.
-- **[flutter_billing_app](https://github.com/Connacri/flutter_billing_app)** — Flutter billing/invoicing experimentation.
-- **[Hotel](https://github.com/Connacri/Hotel)** — Hotel management/application project.
-- **[Doro](https://github.com/Connacri/Doro)** — Application/prototype project.
-- **[indra](https://github.com/Connacri/indra)** — Application/project prototype.
-- **[ramzy](https://github.com/Connacri/ramzy)** — Application/client project.
-- **[MultiProjects](https://github.com/Connacri/MultiProjects)** — Multi-project application/architecture experimentation.
-- **[tool](https://github.com/Connacri/tool)** — Development/tooling project.
-- **[V9.27-50_Update](https://github.com/Connacri/V9.27-50_Update)** — Version/update project repository.
-- **[version1k](https://github.com/Connacri/version1k)** — Versioned application/project repository.
-
-## 🤖 AI, Chat & Social
-
-- **[pocketpal-ai](https://github.com/Connacri/pocketpal-ai)** — AI/mobile experimentation.
-- **[SmolChat-Android](https://github.com/Connacri/SmolChat-Android)** — Android chat and AI experimentation.
-- **[Chat](https://github.com/Connacri/Chat)** — Chat application/prototype.
-- **[NouTube](https://github.com/Connacri/NouTube)** — Video/social platform experimentation.
-- **[Tinder-p2p-app](https://github.com/Connacri/Tinder-p2p-app)** — Peer-to-peer social/matching application prototype.
-- **[profilum](https://github.com/Connacri/profilum)** — Social/dating and matching application.
-- **[profilias](https://github.com/Connacri/profilias)** — Profiles and identity management.
-
-## 📰 Media, Civic & Public Services
-
-- **[News](https://github.com/Connacri/News)** — News/media platform with web/mobile components.
-- **[CCTV-Autorisation](https://github.com/Connacri/CCTV-Autorisation)** — Digital CCTV authorization/form workflow.
-- **[rnd](https://github.com/Connacri/rnd)** — Civic/political application project.
-- **[oran](https://github.com/Connacri/oran)** — Oran-focused application project.
-- **[CV](https://github.com/Connacri/CV)** — Professional CV and portfolio resources.
-- **[Connacri.github.io](https://github.com/Connacri/Connacri.github.io)** — Personal GitHub Pages website.
-- **[privacy.policy](https://github.com/Connacri/privacy.policy)** — Privacy-policy hosting/resources.
-
-## 🧪 R&D, Experiments & Utilities
-
-- **[gg](https://github.com/Connacri/gg)** — Experimental/prototyping repository.
-- **[skillGrowth](https://github.com/Connacri/skillGrowth)** — Learning and skill-development project.
-- **[LotusDate](https://github.com/Connacri/LotusDate)** — Date/social application experiment.
-- **[Check-it-privacy](https://github.com/Connacri/Check-it-privacy)** — Privacy-related project/resources.
-- **[check31](https://github.com/Connacri/check31)** — Checklist/verification application.
-- **[wifiCrack](https://github.com/Connacri/wifiCrack)** — Security/networking experimentation repository.
-
-## 📦 Other Projects
-
-- **[Connacri](https://github.com/Connacri/Connacri)** — This profile and developer portfolio.
-- **[Connacri.github.io](https://github.com/Connacri/Connacri.github.io)** — Personal website repository.
-- **[CV](https://github.com/Connacri/CV)** — CV/portfolio repository.
-- **[Check-it-privacy](https://github.com/Connacri/Check-it-privacy)** — Privacy project.
-- **[privacy.policy](https://github.com/Connacri/privacy.policy)** — Privacy-policy resources.
+| # | Repository | Description |
+|---:|---|---|
+| 01 | [3d-anatomy](https://github.com/Connacri/3d-anatomy) | 3D anatomy research and application |
+| 02 | [AnatomyZ](https://github.com/Connacri/AnatomyZ) | 3D anatomy, ontologies and knowledge graph |
+| 03 | [Anatria-3D](https://github.com/Connacri/Anatria-3D) | Interactive 3D anatomy |
+| 04 | [CargoLink](https://github.com/Connacri/CargoLink) | Digital logistics platform |
+| 05 | [CCTV-Autorisation](https://github.com/Connacri/CCTV-Autorisation) | CCTV authorization and PDF workflow |
+| 06 | [Chat](https://github.com/Connacri/Chat) | Chat application |
+| 07 | [Check-it-privacy](https://github.com/Connacri/Check-it-privacy) | Privacy project |
+| 08 | [check31](https://github.com/Connacri/check31) | Verification/checklist project |
+| 09 | [Connacri](https://github.com/Connacri/Connacri) | GitHub developer profile |
+| 10 | [Connacri.github.io](https://github.com/Connacri/Connacri.github.io) | Personal website |
+| 11 | [CRECHE](https://github.com/Connacri/CRECHE) | Childcare/creche management |
+| 12 | [CV](https://github.com/Connacri/CV) | CV and professional portfolio |
+| 13 | [Doro](https://github.com/Connacri/Doro) | Application/prototype |
+| 14 | [dubai](https://github.com/Connacri/dubai) | Dubai-oriented application |
+| 15 | [flutter_billing_app](https://github.com/Connacri/flutter_billing_app) | Flutter billing/invoicing |
+| 16 | [gg](https://github.com/Connacri/gg) | Experimental project |
+| 17 | [Hospital-Inventory](https://github.com/Connacri/Hospital-Inventory) | Hospital inventory management |
+| 18 | [Hotel](https://github.com/Connacri/Hotel) | Hotel management project |
+| 19 | [Human-Atlas](https://github.com/Connacri/Human-Atlas) | Human anatomy atlas |
+| 20 | [indra](https://github.com/Connacri/indra) | Application prototype |
+| 21 | [inturk](https://github.com/Connacri/inturk) | Travel/service application |
+| 22 | [inturkNew](https://github.com/Connacri/inturkNew) | Inturk project iteration |
+| 23 | [MultiProjects](https://github.com/Connacri/MultiProjects) | Multi-project architecture |
+| 24 | [News](https://github.com/Connacri/News) | News/media platform |
+| 25 | [NouTube](https://github.com/Connacri/NouTube) | Video/social platform |
+| 26 | [Nursery](https://github.com/Connacri/Nursery) | Nursery application |
+| 27 | [oran](https://github.com/Connacri/oran) | Oran-focused application |
+| 28 | [planning-hospital](https://github.com/Connacri/planning-hospital) | Hospital planning |
+| 29 | [pocketpal-ai](https://github.com/Connacri/pocketpal-ai) | AI/mobile experimentation |
+| 30 | [pos](https://github.com/Connacri/pos) | Point-of-sale system |
+| 31 | [Pos_module](https://github.com/Connacri/Pos_module) | POS module/prototype |
+| 32 | [privacy.policy](https://github.com/Connacri/privacy.policy) | Privacy-policy resources |
+| 33 | [profilias](https://github.com/Connacri/profilias) | Profiles/identity |
+| 34 | [profilum](https://github.com/Connacri/profilum) | Social/matching application |
+| 35 | [ramzy](https://github.com/Connacri/ramzy) | Application/client project |
+| 36 | [Rheumatology](https://github.com/Connacri/Rheumatology) | Rheumatology application |
+| 37 | [rnd](https://github.com/Connacri/rnd) | Civic/political application |
+| 38 | [siyaha](https://github.com/Connacri/siyaha) | Tourism/service project |
+| 39 | [skillGrowth](https://github.com/Connacri/skillGrowth) | Learning/skill development |
+| 40 | [SmolChat-Android](https://github.com/Connacri/SmolChat-Android) | Android chat/AI |
+| 41 | [Tinder-p2p-app](https://github.com/Connacri/Tinder-p2p-app) | P2P matching prototype |
+| 42 | [tool](https://github.com/Connacri/tool) | Development/tooling project |
+| 43 | [TRANSPORT](https://github.com/Connacri/TRANSPORT) | Transport application |
+| 44 | [V9.27-50_Update](https://github.com/Connacri/V9.27-50_Update) | Version/update project |
+| 45 | [version1k](https://github.com/Connacri/version1k) | Versioned application |
+| 46 | [wahrane](https://github.com/Connacri/wahrane) | Oran/Wahran project |
+| 47 | [wifiCrack](https://github.com/Connacri/wifiCrack) | Networking/security experimentation |
+| 48 | [LotusDate](https://github.com/Connacri/LotusDate) | Social/date application experiment |
 
 ---
 
-# 🏗️ Engineering Approach
-
-I prefer systems that are:
-
-**Understandable → Modular → Testable → Maintainable → Deployable**
-
-Typical architecture:
-
-`UI → State → Domain → Repositories → Local/Remote Data → Services`
-
-For larger products, I separate **product concerns from infrastructure concerns** so features can evolve without turning the codebase into an unmaintainable monolith.
-
-### Product lifecycle
-
-`Idea → Architecture → UI/UX → Implementation → Data → Testing → CI/CD → Release → Iteration`
-
----
-
-# 📊 GitHub Activity
+# 📈 GitHub Analytics
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Connacri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connacri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connacri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Connacri&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Connacri&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
-# 🌐 Portfolio & Contact
+# 🐍 Contribution Animation
 
-- 🌐 **Portfolio:** https://connacri.github.io/
-- 💻 **GitHub:** https://github.com/Connacri
-- 📧 **Email:** connacri@gmail.com
+<div align="center">
 
-### Open to
+<img src="https://raw.githubusercontent.com/Connacri/Connacri/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
 
-**Software development · Product engineering · Mobile/Desktop applications · Digital transformation · Technical collaboration**
+</div>
 
 ---
 
+# 🏗️ Engineering Philosophy
+
+**Problem → Architecture → Implementation → Data → Testing → Automation → Release → Iteration**
+
+I build systems that aim to be:
+
+**Understandable · Modular · Testable · Maintainable · Deployable**
+
+Typical architecture:
+
+`UI → State → Domain → Repositories → Local/Remote Data → Services`
+
+---
+
+# 🌐 Links
+
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00D4FF?style=for-the-badge)](https://connacri.github.io/)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Connacri-181717?style=for-the-badge)](https://github.com/Connacri)
+[![Repositories](https://img.shields.io/badge/📦_All_Repositories-48-6E40C9?style=for-the-badge)](https://github.com/Connacri?tab=repositories)
 
 ### Build software that solves real problems.
 
 **Connacri · Algeria 🇩🇿**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Connacri&style=flat-square&color=00D4FF)
 
 </div>
