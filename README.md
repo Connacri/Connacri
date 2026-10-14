@@ -164,6 +164,7 @@ This catalogue includes the **54 repositories currently visible in the connected
 | [FreeOBoxSync](https://github.com/Connacri/FreeOBoxSync) | ObjectBox synchronization-related utility/project. |
 | [wifiCrack](https://github.com/Connacri/wifiCrack) | Networking/security experimentation; use only in authorized environments. |
 | [CyberScrape](https://github.com/Connacri/CyberScrape) | Web data extraction / scraping experiment. |
+| [jaradp](https://github.com/Connacri/jaradp) | Application / project repository; see the source repository for implementation details. |
 | [TRANSPORT](https://github.com/Connacri/TRANSPORT) | Transport-oriented application project. |
 
 ## Developer identity, web & supporting repositories
